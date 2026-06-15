@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Lefteris 👋
 
-<!--
-**LeftisGr/LeftisGr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Vibe Coder based in Greece 🇬🇷 — I build real products, not tutorials.
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [echoo.gr](https://echoo.gr)
+Anonymous social platform — no profiles, no photos, no social fatigue.
+Just real conversations. **Live in production.**
+
+### enjointv
+Movie & series recommender — solves the "what to watch tonight?" problem.
+
+## 🛠️ Stack
+Dyad · Lovable · Claude AI · TypeScript · GitHub
+
+## 📫 Contact
+leftis.pro@gmail.com
